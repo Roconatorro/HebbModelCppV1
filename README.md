@@ -1,6 +1,6 @@
 # HebbModelC++V1
 
-Requires SFML v.3.0 installed on your machine
+Requires SFML v.3.0 installed on your machine, aswell as C++17 or later.
 
 Simple C++ implementation of Neural Network using Hebbian learning Rules. 
 It gets stabilized by:
